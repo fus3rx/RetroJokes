@@ -5,7 +5,11 @@ follow this tutorial to understand restful\par
 and there is a folder retrofit copy it and paste it in xampp's\par
 htdocs folder. then run it through localhost/retro..../server...php in the browser to taste it.
 if success it will show like this
-[img]https://image.ibb.co/cwXpyQ/working.png[/img]
+<h1 align="center">
+	<br>
+	<img width="200" src="https://image.ibb.co/cwXpyQ/working.png" alt="proof">
+	<br>
+</h1>
 
 user is : hasan password is : 123
 
